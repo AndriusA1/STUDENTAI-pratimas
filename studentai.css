@@ -1,0 +1,31 @@
+.input-error {
+  border: 2px solid rgb(245, 147, 147);
+}
+
+.input-error-message {
+  color: red;
+}
+
+.error-alert {
+  color: rgb(236, 34, 34);
+}
+
+.section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#student-form,
+.interests {
+  margin-top: 20px;
+  margin-bottom: 3px;
+}
+
+#student-surname,
+#student-age,
+#student-phone,
+#student-email,
+#student-it-knowledge {
+  margin-top: 3px;
+}
